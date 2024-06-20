@@ -19,6 +19,6 @@ Este repositorio contiene los notebooks empleados para la fase de experimentaci�
 
 ## Licencia
 
-Esta obra está sujeta a una licencia de Reconocimiento-NoComercial 4.0 España de Creative Commons. Para más información, visita [este enlace](https://creativecommons.org/licenses/by/4.0/).
+Esta obra está sujeta a una licencia de Reconocimiento-NoComercial 4.0 España de Creative Commons. Para más información visita [este enlace](https://creativecommons.org/licenses/by/4.0/).
 Se publica para facilitar su acceso a otros investigadores.
 
