@@ -1,9 +1,11 @@
-# Trabajo Final de Máster (Máster Universitario en Ciencia de Datos - UOC)
+# Trabajo Final de Máster
+# (Máster Universitario en Ciencia de Datos - UOC)
 
-**"Mejoras al diagnóstico por imagen en cáncer de pecho mediante redes neuronales profundas"**
+**Título: "Mejoras al diagnóstico por imagen en cáncer de pecho mediante redes neuronales profundas"**
+
 Junio de 2024
 
-Este repositorio contiene los notebooks empleados para la fase de experimentación del Trabajo de Fin de Máster cuyo título está citado arriba. Los notebooks proceden del entorno de trabajo Google Colab. Cabe destacar que los modelos han requerido, en su mayoría, el uso de arquitecturas con GPU's, por lo que es necesario el servicio "PRO" de Colab para poder relanzarlos.
+Este repositorio contiene los notebooks empleados para la fase de experimentación del Trabajo de Fin de Máster cuyo título está citado anteriormente. Los notebooks proceden del entorno de trabajo Google Colab. Cabe destacar que los modelos han requerido, en su mayoría, el uso de arquitecturas con GPU's T4/L4, por lo que es necesario el servicio "PRO" de Colab para poder relanzarlos.
 
 ## Contenido del repositorio
 
